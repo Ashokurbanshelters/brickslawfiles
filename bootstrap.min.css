@@ -1710,7 +1710,7 @@ button.bg-light:hover {
     display: flex !important
 }
 
-@media (min-width:1200px) {
+@media (min-width:1400px) {
     .d-lg-none {
         display: none !important
     }

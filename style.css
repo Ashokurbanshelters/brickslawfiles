@@ -1586,9 +1586,4 @@ h4,
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
-.footer-script .modal-content {
-    background: white;
-    padding: 1rem;
-    border: 1px solid black;
-    border-radius: 1rem;
-}
+

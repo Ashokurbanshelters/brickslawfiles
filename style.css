@@ -1616,7 +1616,6 @@ h4,
       padding: 1rem;
       height: 90%;
       border: 1px solid #b49c73;
-      background-color: rgba(0, 0, 0, 0.5); /* Transparent background */
     }
     /* Center the image horizontally */
     .center-horizontal {

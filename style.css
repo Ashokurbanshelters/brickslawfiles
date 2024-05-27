@@ -1587,3 +1587,40 @@ h4,
   background-clip: text;
 }
 
+/* Hero Section New Layout */
+ /* Adjustments for smaller screens */
+    @media (max-width: 768px) {
+      .hero-image {
+        height: 100%;
+        width: auto;
+        margin-bottom: -5rem;
+        margin-top: 5rem; /* Add top margin */
+      }
+      .hero-card {
+        width: 100%;
+      }
+    }
+    .hero-section {
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .hero-content {
+      text-align: center;
+      color: white; /* Set text color to white */
+    }
+    .hero-card {
+      border-radius: 10px;
+      box-shadow: 0 0 6px #b49c73;
+      padding: 1rem;
+      height: 90%;
+      border: 1px solid #b49c73;
+      background-color: rgba(0, 0, 0, 0.5); /* Transparent background */
+    }
+    /* Center the image horizontally */
+    .center-horizontal {
+      display: flex;
+      justify-content: center;
+    }
+/*  Hero Section New Layout  */

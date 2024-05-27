@@ -1596,6 +1596,7 @@ h4,
         width: auto;
         margin-bottom: -5rem;
         margin-top: 5rem; /* Add top margin */
+        padding: 0 2rem;
       }
       .hero-card {
         width: 90%;

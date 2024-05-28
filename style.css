@@ -1649,4 +1649,6 @@ li.wp-block-post {
   content: counter(post-counter); /* Display the counter content */
   font-weight: bold; /* Optionally, make the numbering bold */
   margin-right: 5px; /* Adjust spacing between the counter and post content */
+  display: inline-block; /* Display inline with the content */
+  width: 20px; /* Adjust width of the numbering */
 }

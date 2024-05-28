@@ -1652,3 +1652,15 @@ li.wp-block-post {
   display: inline-block; /* Display inline with the content */
   width: 20px; /* Adjust width of the numbering */
 }
+
+.wp-block-post-template .wp-block-post-title:before {
+  content: counter(post-counter); /* Display the counter content */
+  font-weight: bold; /* Optionally, make the numbering bold */
+  margin-right: 5px; /* Adjust spacing between the counter and post content */
+}
+
+.wp-block-post-template h2:before {
+  content: counter(post-counter); /* Display the counter content */
+  font-weight: bold; /* Optionally, make the numbering bold */
+  margin-right: 5px; /* Adjust spacing between the counter and post content */
+}

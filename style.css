@@ -1635,8 +1635,19 @@ li.wp-block-post {
     margin: 1rem;
 }
 
+.wp-block-post-template ul {
+  counter-reset: post-counter; /* Reset the counter */
+  list-style-type: none; /* Remove default list styles */
+}
+
+.wp-block-post-template li {
+  counter-increment: post-counter; /* Increment the counter */
+  margin-bottom: 20px; /* Adjust spacing between posts */
+}
+
 .wp-block-post-template h2:before {
   content: counter(post-counter); /* Display the counter content */
   font-weight: bold; /* Optionally, make the numbering bold */
   margin-right: 5px; /* Adjust spacing between the counter and heading */
 }
+

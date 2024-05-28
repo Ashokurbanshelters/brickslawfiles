@@ -1646,7 +1646,7 @@ li.wp-block-post {
 }
 
 .wp-block-post-template h2:before {
-  content: counter(post-counter); /* Display the counter content */
+  content: counter(post-counter) "."; /* Display the counter content */
   font-weight: bold; /* Optionally, make the numbering bold */
   margin-right: 5px; /* Adjust spacing between the counter and heading */
 }

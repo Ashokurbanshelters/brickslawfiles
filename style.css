@@ -1635,24 +1635,6 @@ li.wp-block-post {
     margin: 1rem;
 }
 
-.wp-block-post-template ul {
-  counter-reset: post-counter; /* Reset the counter */
-  list-style-type: none; /* Remove default list styles */
-}
-
-.wp-block-post-template li {
-  counter-increment: post-counter; /* Increment the counter */
-  margin-bottom: 20px; /* Adjust spacing between posts */
-}
-
-.wp-block-post-template li:before {
-  content: counter(post-counter); /* Display the counter content */
-  font-weight: bold; /* Optionally, make the numbering bold */
-  margin-right: 5px; /* Adjust spacing between the counter and post content */
-  display: inline-block; /* Display inline with the content */
-  width: 20px; /* Adjust width of the numbering */
-}
-
 .wp-block-post-template .wp-block-post-title:before {
   content: counter(post-counter); /* Display the counter content */
   font-weight: bold; /* Optionally, make the numbering bold */

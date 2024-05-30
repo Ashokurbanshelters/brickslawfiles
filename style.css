@@ -1630,6 +1630,9 @@ h4,
 /* Post List */
 li.wp-block-post {
     margin: 1rem;
+    border: 1px solid;
+    padding: 1rem;
+    border-radius: 1rem;
 }
 
 .wp-block-post-template ul {
@@ -1647,4 +1650,15 @@ li.wp-block-post {
   font-weight: bold; /* Optionally, make the numbering bold */
   margin-right: 5px; /* Adjust spacing between the counter and heading */
 }
+a.wp-block-post-excerpt__more-link {
+    font-size: 1rem;
+    background: white;
+    padding: .2rem;
+    margin: .4rem 0;
+    color: black;
+    border-radius: .3rem;
+}
 
+.wp-block-post-title {
+    margin-top:.3rem;
+}

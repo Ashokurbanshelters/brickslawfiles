@@ -1661,7 +1661,19 @@ a.wp-block-post-excerpt__more-link {
 
 .wp-block-post-title {
     margin-top:.3rem;
+    font-size:1.3rem;
 }
 .container.post-list {
-    margin: 3rem 0;
+    margin: 3rem auto;
+}
+p.wp-block-post-excerpt__excerpt {
+  font-size:0.8rem;
+}
+a.wp-block-post-excerpt__more-link {
+    font-size: .7rem;
+    background: white;
+    padding: .2rem;
+    margin: .4rem 0;
+    color: black;
+    border-radius: .3rem;
 }

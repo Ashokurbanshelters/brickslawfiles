@@ -1,0 +1,8 @@
+# Bricks Law LLP
+User-agent: *
+Allow: /
+
+# Nothing here should be indexed as a document repository.
+Disallow: /assets/img/raw/
+
+Sitemap: https://brickslaw.com/sitemap.xml

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none" aria-hidden="true">
+  <symbol id="i-check" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></symbol>
+  <symbol id="i-arrow-right" viewBox="0 0 24 24"><path d="M4 12h15M13 6l6 6-6 6"/></symbol>
+  <symbol id="i-arrow-up" viewBox="0 0 24 24"><path d="M12 19V5M6 11l6-6 6 6"/></symbol>
+  <symbol id="i-phone" viewBox="0 0 24 24"><path d="M21.5 16.9v2.8a2 2 0 0 1-2.2 2 19.6 19.6 0 0 1-8.5-3 19.3 19.3 0 0 1-6-6 19.6 19.6 0 0 1-3-8.6 2 2 0 0 1 2-2.2h2.8a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L7.7 9.7a16 16 0 0 0 6 6l1.2-1.1a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.7 2Z"/></symbol>
+  <symbol id="i-mail" viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m2.5 6.5 9.5 6.5 9.5-6.5"/></symbol>
+  <symbol id="i-pin" viewBox="0 0 24 24"><path d="M20 10.5C20 17 12 22 12 22S4 17 4 10.5a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10.3" r="2.9"/></symbol>
+  <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5.3l3.4 2"/></symbol>
+  <symbol id="i-scale" viewBox="0 0 24 24"><path d="M12 4.5v15M8.5 19.5h7M4 8h16M12 4.6 4.6 7.4 2 13.4a3.4 3.4 0 0 0 5.2 0L4.6 7.4M12 4.6l7.4 2.8L22 13.4a3.4 3.4 0 0 1-5.2 0l2.8-6"/></symbol>
+  <symbol id="i-gavel" viewBox="0 0 24 24"><path d="m13.6 12.4-7.1 7.1a2 2 0 1 1-2.8-2.8l7.1-7.1M15 17H7M14.4 4.2l5.4 5.4M11.7 6.9l5.4-5.4M9 9.6l5.4 5.4M21.6 11.4 16.2 6"/></symbol>
+  <symbol id="i-hardhat" viewBox="0 0 24 24"><path d="M2.5 18a1 1 0 0 0 1 1h17a1 1 0 0 0 1-1v-1.6a1 1 0 0 0-1-1h-16a1 1 0 0 0-1 1Z"/><path d="M9.6 10.2V6a1 1 0 0 1 1-1h2.8a1 1 0 0 1 1 1v4.2"/><path d="M4.6 15.4v-3a6 6 0 0 1 5-5.9M14.4 6.5a6 6 0 0 1 5 5.9v3"/></symbol>
+  <symbol id="i-tower" viewBox="0 0 24 24"><path d="M6.5 22V4.2A2.2 2.2 0 0 1 8.7 2h6.6a2.2 2.2 0 0 1 2.2 2.2V22M3 22h18M10 6.5h4M10 10.5h4M10 14.5h4M11 22v-3.5h2V22"/></symbol>
+  <symbol id="i-briefcase" viewBox="0 0 24 24"><rect x="2.5" y="7" width="19" height="13" rx="2"/><path d="M8.5 7V5a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v2M2.5 13h19"/></symbol>
+  <symbol id="i-people" viewBox="0 0 24 24"><path d="M15.5 21v-2a4 4 0 0 0-4-4h-5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7.4" r="3.6"/><path d="M21.5 21v-1.9a4 4 0 0 0-3-3.8M15.5 3.7a4 4 0 0 1 0 7.4"/></symbol>
+  <symbol id="i-chip" viewBox="0 0 24 24"><rect x="5.5" y="5.5" width="13" height="13" rx="2"/><rect x="9.5" y="9.5" width="5" height="5" rx="1"/><path d="M9 2.5V5M15 2.5V5M9 19v2.5M15 19v2.5M2.5 9H5M2.5 15H5M19 9h2.5M19 15h2.5"/></symbol>
+  <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 21.5s8-3.8 8-9.6V5.4L12 2.5 4 5.4v6.5c0 5.8 8 9.6 8 9.6Z"/><path d="m8.8 11.9 2.3 2.3 4.1-4.4"/></symbol>
+  <symbol id="i-home" viewBox="0 0 24 24"><path d="m3 10.3 9-6.8 9 6.8V20a1.5 1.5 0 0 1-1.5 1.5h-15A1.5 1.5 0 0 1 3 20Z"/><path d="M9.5 21.5V13h5v8.5"/></symbol>
+  <symbol id="i-file" viewBox="0 0 24 24"><path d="M14 2.5H7A2 2 0 0 0 5 4.5v15a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7.5Z"/><path d="M14 2.5v5h5M8.5 13h7M8.5 16.5h7M8.5 9.5h2"/></symbol>
+  <symbol id="i-target" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4.6"/><circle cx="12" cy="12" r=".9" fill="currentColor" stroke="none"/></symbol>
+  <symbol id="i-trend" viewBox="0 0 24 24"><path d="m3 17 5.5-5.5 3.5 3.5L21 6"/><path d="M15 6h6v6"/></symbol>
+  <symbol id="i-alert" viewBox="0 0 24 24"><path d="M10.3 3.9 2.6 17.2A2 2 0 0 0 4.3 20h15.4a2 2 0 0 0 1.7-2.8L13.7 3.9a2 2 0 0 0-3.4 0Z"/><path d="M12 9.5v4M12 16.8h.01"/></symbol>
+  <symbol id="i-close" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18"/></symbol>
+  <symbol id="i-lock" viewBox="0 0 24 24"><rect x="4" y="10.5" width="16" height="10.5" rx="2"/><path d="M8 10.5V7a4 4 0 0 1 8 0v3.5"/></symbol>
+  <symbol id="i-cal" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></symbol>
+  <symbol id="i-docs" viewBox="0 0 24 24"><rect x="8" y="3" width="13" height="15" rx="2"/><path d="M5 6v13a2 2 0 0 0 2 2h9"/><path d="M11.5 7.5h6M11.5 11h6"/></symbol>
+  <symbol id="i-star" viewBox="0 0 24 24" stroke="none"><path d="m12 2.6 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.6 6.1 20.6l1.2-6.5L2.5 9.5l6.6-.9Z" fill="currentColor"/></symbol>
+  <symbol id="i-linkedin" viewBox="0 0 24 24" stroke="none"><path d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5ZM3 9.4h4v11.1H3Zm6.6 0h3.8v1.6h.05c.53-1 1.83-2.05 3.77-2.05 4 0 4.78 2.6 4.78 6V20.5h-4v-4.9c0-1.2-.02-2.8-1.8-2.8-1.8 0-2.05 1.35-2.05 2.75v4.95h-4Z" fill="currentColor"/></symbol>
+  <symbol id="i-x" viewBox="0 0 24 24" stroke="none"><path d="M18.6 2H22l-7.2 8.2L22.6 22h-6.6l-5.1-6.7L4.9 22H1.5l7.7-8.8L1.9 2h6.8l4.6 6.1Zm-1.2 18h1.8L7.2 3.8H5.3Z" fill="currentColor"/></symbol>
+  <symbol id="i-facebook" viewBox="0 0 24 24" stroke="none"><path d="M13.5 21.9v-8h2.7l.4-3.1h-3.1V8.9c0-.9.25-1.5 1.55-1.5h1.65V4.6c-.29-.04-1.3-.12-2.48-.12-2.45 0-4.12 1.5-4.12 4.24v2.18H7.4V14h2.7v8Z" fill="currentColor"/></symbol>
+</svg>
